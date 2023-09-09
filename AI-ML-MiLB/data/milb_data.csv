@@ -1,0 +1,7 @@
+import pandas as pd
+
+# Read the MILB data from CSV file
+milb_data = pd.read_csv("AI-ML-MiLB/data/milb_data.csv")
+
+# Display the MILB data
+print(milb_data.head())

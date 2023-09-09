@@ -1,0 +1,7 @@
+import pandas as pd
+
+# Read the MLB data from the CSV file
+mlb_data = pd.read_csv("AI-ML-MiLB/data/mlb_data.csv")
+
+# Display the MLB data
+print(mlb_data.head())
