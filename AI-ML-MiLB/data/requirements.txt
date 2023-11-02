@@ -1,6 +1,6 @@
 # AI-ML-MiLB/data/requirements.txt
 
-Django==3.2.20
+Django==3.2.23
 Scrapy==2.10.1
 TensorFlow==2.11.1
 Pandas==1.3.3
